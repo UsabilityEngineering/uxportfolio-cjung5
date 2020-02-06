@@ -9,3 +9,4 @@ If you want to see my personal page, feel free to visit [My protfolio page](http
 
 ## UX Journal
 
+[This is my first journal enty](journal-01/)
