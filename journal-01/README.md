@@ -11,5 +11,8 @@
   
   The touch bar shows well how Apple worked hard to show new technology. When they made this product, we can know that they concerned __object's affordance__ for users through the button's alignment. However, they overlooked one of the important things; __feedback__ for the user's __satisfaction__. Since most users didn't satisfy with this touch bar especially the ESC key, Apple recovered the ESC key with a physical button for their new product.
 
+* Past Mackbook Pro Keyboard
+![alt text](../assets/Journal1.JPG "Journal1 img1")
 
-![alt text](../assets/Journal1.JPG "Journal1 img")
+* New Macbook Pro Keyboard
+![alt text](../assets/Journal1-2.jpg "Journal1 img2")
