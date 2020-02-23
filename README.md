@@ -9,4 +9,4 @@ If you want to see my personal page, feel free to visit [My protfolio page](http
 
 ## UX Journal
 
-[Unsatisfactory ESC Key](journal-01/)
+[Unsatisfying ESC Key](journal-01/)
