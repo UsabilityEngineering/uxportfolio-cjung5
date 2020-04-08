@@ -9,6 +9,6 @@ If you want to see my personal page, feel free to visit [My protfolio page](http
 
 ## UX Journal
 
-[Unsatisfying ESC Key](journal-01/)
+* [Unsatisfying ESC Key](journal-01/)
 
-[Apple Pencil](journal-02/)
+* [Apple Pencil](journal-02/)
