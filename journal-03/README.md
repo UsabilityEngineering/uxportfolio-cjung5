@@ -6,7 +6,7 @@
 
 * Lamp and close up version of the lamp
 <p align="center">
-<img src="../assets/Lamp.JPG" alt="Lamp" width="500" height="500"><img src="../assets/CloseupLamp.JPG" alt="CloseupLamp" width="500" height="500">
+<img src="../assets/Lamp.JPG" alt="Lamp" width="400" height="400"><img src="../assets/CloseupLamp.JPG" alt="CloseupLamp" width="400" height="400">
 </p>
 
 * Similarity with pen's button
