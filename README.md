@@ -13,4 +13,4 @@ If you want to see my personal page, feel free to visit [My protfolio page](http
 
 * [Apple Pencil](journal-02/)
 
-* [Lamp Key](journal-0/)
+* [Lamp Key](journal-03/)
