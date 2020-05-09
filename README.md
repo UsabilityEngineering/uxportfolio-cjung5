@@ -12,3 +12,5 @@ If you want to see my personal page, feel free to visit [My protfolio page](http
 * [Unsatisfying ESC Key](journal-01/)
 
 * [Apple Pencil](journal-02/)
+
+* [Lamp Key](journal-0/)
