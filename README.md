@@ -1,5 +1,7 @@
 # UX Portfolio
-![alt text](assets/changsoo.jpg "Changsoo Jung")
+<p align="center">
+<img src="../assets/changsoo.jpg" alt="Changsoo Jung" width="600" height="600">
+</p>
 
 Hi, I'm **Changsoo Jung** and my major is computer science at the CSU, Chico.
 I'm interested in UX since I took the Software Engineering (CSCI430) course. I have some experience about Adobe XD.
